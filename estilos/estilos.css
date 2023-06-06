@@ -158,3 +158,8 @@ a{
     border-radius: 50%;
   }
   
+
+  .fondoImagen{
+    background-image: url("../imagenes/fondoIndex.png");     
+    object-fit: fill;
+  }
