@@ -24,7 +24,7 @@ a{
 }
 
 .tarjetaImagen{    
-    width: 500px;
+    width: 300px;
     height: auto;
     overflow: hidden;     
     margin: 5px;   
@@ -36,8 +36,8 @@ a{
     border: none;
     color: inherit;
     margin: 6px;
-    width: 500px;
-    height: 450px;
+    width: 300px;
+    height: 250px;
     overflow: hidden;
 }
 
@@ -61,8 +61,8 @@ a{
 
  .animated-shadow {
     color: rgba(7, 10, 218, 0.411);
-    font: normal 50px Varela Round, sans-serif;
-    height: 50px;
+    font: normal 25px Varela Round, sans-serif;
+    height: 25px;
     left: 0;
     letter-spacing: 5px;
     text-align: center;
@@ -136,7 +136,7 @@ a{
   }  
 
   .imagen {
-    --s: 400px;   /* the size of the image */
+    --s: 250px;   /* the size of the image */
     --b: 8px;     /* the border thickness*/
     --g: 14px;    /* the gap */
     --c: #070707e5; /* the color */
@@ -157,4 +157,4 @@ a{
   .imagen + .imagen {
     border-radius: 50%;
   }
-    
+  
